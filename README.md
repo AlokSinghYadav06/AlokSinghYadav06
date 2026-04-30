@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Alok Singh Yadav</h1>
 <h3 align="center">A passionate Electronics,Communication and AI/ML Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksinghyadav15&label=Profile%20views&color=0e75b6&style=flat" alt="aloksinghyadav15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksinghyadav06&label=Profile%20views&color=0e75b6&style=flat" alt="aloksinghyadav06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloksinghyadav15" alt="aloksinghyadav15" /></a> </p>
 
